@@ -14,6 +14,8 @@ Robotic, Robot vision, Indoor&Outdoor Navigation, Object detection, Segmentation
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosunkang&layout=compact&theme=tokyonight)
+
 #### :mag_right: More about me :bangbang:
 Here places are my social networks and blogs.    
 If you wanna let me know more about me, Click it :point_right:
