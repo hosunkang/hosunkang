@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9eaeff,100:0800ff&height=120&section=header&text=Kang%20Hosun's%20Github&fontSize=25&fontAlignY=25)
-
 ## :wave:Welcome to my world! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhosunkang%2Fhit-counter&count_bg=%23000000&title_bg=%23727272&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 #### 💡 Interest 
