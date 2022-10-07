@@ -1,7 +1,7 @@
 ## :wave:Welcome to my world! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhosunkang%2Fhit-counter&count_bg=%23000000&title_bg=%23727272&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 #### 💡 Interest 
-Robotic, Robot vision, Indoor&Outdoor Navigation, Object detection, Segmentation
+Robotic, Robot vision, Legged robot
 
 #### 🛠 Skills 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
